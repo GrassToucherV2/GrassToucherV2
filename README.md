@@ -1,5 +1,8 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100"/>
+</div> -->
+<div align="center">
+  <img src="https://github.com/Nuohan-li/Nuohan-li/blob/main/cat.jpg"width="600" height="300"/>
 </div>
 <div id="badges" align="center">
 
@@ -16,25 +19,46 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nuohan-li&style=flat-square&color=blue" alt=""/>
 </div>
-<div align="center">
-  <img src="https://github.com/Nuohan-li/Nuohan-li/blob/main/download.jpg"width="600" height="300"/>
-</div>
+
 <hr>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div>
+  <h1>
+    Hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+    <p>My name is Nuohan Li, and I’m currently a second-year student at the University of Waterloo, majoring in electrical engineering. Most of my work experience has been in the telecommunication industry, where I developed a strong interest in computer networking and security. This led me to switch my major from computer engineering to electrical engineering, as I wanted to explore the physical layer of networks, which my previous major didn't cover. And I have always been kind of into physics.
+  </p>
+</div>
+<div>
+  <h1>
+    Technologies
+  </h1>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</div>
+  <h1>My stats</h1>
+<div>
+  <a href="https://git.io/streak-stats" style="flex: 1 ;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Nuohan-li&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: 55%; height: 100%;">
+  </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuohan-li&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" style="width: 35%; height: 90%;">
+  </a>
+</div>
+ 
 <!--
 **Nuohan-li/Nuohan-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
