@@ -48,7 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </div>
-  <h1>My stats</h1>
+<!--   <h1>My stats</h1>
 <div>
   <a href="https://git.io/streak-stats" style="flex: 1 ;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Nuohan-li&theme=transparent&hide_border=true" alt="GitHub Streak" style="width: 55%; height: 100%;">
@@ -57,7 +57,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuohan-li&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" style="width: 35%; height: 90%;">
   </a>
-</div>
+</div> -->
  
 <!--
 **Nuohan-li/Nuohan-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
