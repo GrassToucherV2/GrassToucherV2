@@ -26,7 +26,7 @@
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-    <p>My name is Nuohan Li, and I’m a second-year electrical engineering student at the University of Waterloo. I originally started in computer engineering but switched to electrical engineering to delve deeper into the physical aspects of networks, an area my previous major didn’t explore. Most of my work experience is in the telecommunications industry, where I developed a strong interest in computer networking and security, mainly cryptography. I've also always been interested in physics.
+    <p>My name is Nuohan Li, and I’m an electrical engineering student at the University of Waterloo. I originally started in computer engineering but switched to electrical engineering to delve deeper into the physical aspects of networks, an area my previous major didn’t explore. Most of my work experience is in the telecommunications industry, where I developed a strong interest in computer networking and security, mainly cryptography. I've also always been interested in physics.
   </p>
 </div>
 <div>
